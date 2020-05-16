@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Ayu Mirage",
+    "editor.fontSize": 10,
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.printWidth": 120
+}
